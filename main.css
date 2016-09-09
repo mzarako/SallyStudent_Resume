@@ -1,0 +1,16 @@
+html {
+	border: 30px solid SandyBrown;
+	font-family: sans-serif;
+}
+header {
+	background-color: DarkSeaGreen;
+	padding: 5px;
+	padding-left: 15px;
+}
+main {
+	background-color: white;
+	padding: 35px;
+}
+address {
+	background-color: whitesmoke;
+}
